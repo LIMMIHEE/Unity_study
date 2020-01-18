@@ -154,6 +154,7 @@ GameObject:
   - component: {fileID: 741038614}
   - component: {fileID: 741038613}
   - component: {fileID: 741038616}
+  - component: {fileID: 741038617}
   m_Layer: 0
   m_Name: "\uC774\uC640\uD0A4 \uC544\uCE20\uD0A4\uC694_\uC804\uC2E0_\uBC30\uD22C"
   m_TagString: Untagged
@@ -254,6 +255,18 @@ MonoBehaviour:
   arrowObj: {fileID: 3885679954520223302, guid: a122256c3291a89469be8d104d48a0ad,
     type: 3}
   shootPos: {fileID: 628424610}
+--- !u!114 &741038617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741038612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67f5fa452f3134468a2deda14106c4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &813580807
 GameObject:
   m_ObjectHideFlags: 0
